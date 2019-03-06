@@ -23,7 +23,7 @@ export default {
     'edit'(state, { payload }) {
       for (let i = 0; i < state.length; i++) {
         const item = state[i];
-        if (item.id == payload.id) {
+        if (item.id === payload.id) {
           state[i] = payload;
         }
       }
