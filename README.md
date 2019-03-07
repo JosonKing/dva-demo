@@ -1,3 +1,4 @@
+![效果展示](https://img-blog.csdnimg.cn/2019030723303464.gif)
 > 本项目搭建过程参考 [Dva官方快速上手教程](https://dvajs.com/guide/getting-started.html)
 项目环境：（在该环境下测试通过，默认使用cnpm）
 dva 0.9.2
@@ -583,4 +584,5 @@ export default {
 ![用户列表增删改查](https://img-blog.csdnimg.cn/20190306225924897.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Jvb3Q1,size_16,color_FFFFFF,t_70)
 ![用户添加/修改数据](https://img-blog.csdnimg.cn/20190306230049187.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Jvb3Q1,size_16,color_FFFFFF,t_70)
 ![用户增删改查功能](https://img-blog.csdnimg.cn/20190306230416352.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3Jvb3Q1,size_16,color_FFFFFF,t_70)
-到此完成基本功能，详见原码 [github](https://github.com/JosonKing/dva-demo)
+到此完成基本功能，详见源码 [github](https://github.com/JosonKing/dva-demo)
+文中若有错误或者需要改进的地方，欢迎大家留言指正，或到github提交[issues](https://github.com/JosonKing/dva-demo/issues)
